@@ -8,7 +8,7 @@
   <a href="mailto:emmanuelkibet585@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://tryhackme.com/p/Convexkarma">
+  <a href="https://tryhackme.com/p/emmanuelkibet585">
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/emmanuel-kibet-31848a38b">
