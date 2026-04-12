@@ -18,7 +18,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 I'm a self-taught cybersecurity student from Nairobi obsessed with understanding how systems break — and how to fix them. I work across web and network penetration testing, building real tools in Python and sharpening my skills daily on platforms like TryHackMe, HackTheBox, and PortSwigger Web Academy.
 
@@ -48,7 +48,7 @@ I'm not just learning theory. I'm building, breaking, and documenting everything
 
 ---
 
-## 🔐 Cybersecurity Focus
+##  Cybersecurity Focus
 
 ```
 Web Penetration Testing     ████████░░   Growing
@@ -65,9 +65,9 @@ CTF Competitions            █████░░░░░   Active
 
 ---
 
-## 📂 Projects
+##  Projects
 
-> 🔨 Building in public — projects added weekly as I learn
+>  Building in public — projects added weekly as I learn
 
 | Project | Description | Stack |
 |---|---|---|
@@ -76,22 +76,8 @@ CTF Competitions            █████░░░░░   Active
 
 ---
 
-## 📈 Current Learning Roadmap
 
-- [x] Started Jr Penetration Tester path — TryHackMe
-- [x] PortSwigger Web Academy — XSS module in progress
-- [x] Python fundamentals
-- [ ] Complete Jr Pentester path
-- [ ] Build port scanner from scratch
-- [ ] Complete PortSwigger Web + Network modules
-- [ ] First CTF competition entry
-- [ ] HackTheBox easy machines independently
-- [ ] Flagship cybersecurity tool on GitHub
-- [ ] Job/internship ready by August 2026
-
----
-
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Convexkarma&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%"/>
