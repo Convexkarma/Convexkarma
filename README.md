@@ -5,41 +5,49 @@
 </p>
 
 <p align="center">
-  <a href="mailto:your@email.com">
+  <a href="mailto:emmanuelkibet585@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://tryhackme.com/p/Convexkarma">
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/yourlinkedin">
+  <a href="https://www.linkedin.com/in/emmanuel-kibet-31848a38b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-##  About Me
+## About Me
 
 I'm a self-taught cybersecurity student from Nairobi obsessed with understanding how systems break — and how to fix them. I work across web and network penetration testing, building real tools in Python and sharpening my skills daily on platforms like TryHackMe, HackTheBox, and PortSwigger Web Academy.
 
 I'm not just learning theory. I'm building, breaking, and documenting everything.
 
-- 🔭 Currently working through the **Jr Penetration Tester** path on TryHackMe
-- 🌐 Deepening web hacking skills on **PortSwigger Web Academy** — XSS, SQLi, CSRF
-- 🐍 Building cybersecurity tools in **Python**
-- 🔐 Studying **C programming** to understand systems at the lowest level
-- 📍 Based in **Nairobi, Kenya**
+- Currently working through the **Jr Penetration Tester** path on TryHackMe
+- Deepening web hacking skills on **PortSwigger Web Academy** — XSS, SQLi, CSRF
+- Building cybersecurity tools in **Python**
+- Studying **C programming** to understand systems at the lowest level
+- Goal: Hackathon ready + job ready by **August 2026**
+- Based in **Nairobi, Kenya**
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Parrot_OS-15E0ED?style=for-the-badge&logo=parrotsecurity&logoColor=black"/>
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Caido-6C3483?style=for-the-badge&logo=caido&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hydra-008000?style=for-the-badge&logo=hydra&logoColor=white"/>
+  <img src="https://img.shields.io/badge/John_the_Ripper-CC0000?style=for-the-badge&logo=john&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
@@ -47,7 +55,7 @@ I'm not just learning theory. I'm building, breaking, and documenting everything
 
 ---
 
-##  Cybersecurity Focus
+## Cybersecurity Focus
 
 ```
 Web Penetration Testing     ████████░░   Growing
@@ -64,9 +72,9 @@ CTF Competitions            █████░░░░░   Active
 
 ---
 
-##  Projects
+## Projects
 
->  Building in public — projects added weekly as I learn
+> Building in public — projects added weekly as I learn
 
 | Project | Description | Stack |
 |---|---|---|
@@ -75,8 +83,7 @@ CTF Competitions            █████░░░░░   Active
 
 ---
 
-
-##  GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Convexkarma&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%"/>
@@ -89,7 +96,7 @@ CTF Competitions            █████░░░░░   Active
 
 ---
 
-##  Latest Writeups
+## Latest Writeups
 
 > Writeups document every machine and challenge I solve.
 > I explain what I did, why it worked, and what I learned.
@@ -98,12 +105,12 @@ CTF Competitions            █████░░░░░   Active
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 Whether you want to:
-- 💼 **Hire me** for internships or entry level cybersecurity roles
-- 🛠️ **Collaborate** on security tools or CTF teams
-- 👀 **Follow** my learning journey from beginner to professional
+- **Hire me** for internships or entry level cybersecurity roles
+- **Collaborate** on security tools or CTF teams
+- **Follow** my learning journey from beginner to professional
 
 I'm open to all of it. Reach out anytime.
 
