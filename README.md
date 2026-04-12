@@ -78,7 +78,7 @@ CTF Competitions            █████░░░░░   Active
 | Project | Description | Stack |
 |---|---|---|
 | [Python-projects](https://github.com/Convexkarma/Python-projects) | Collection of Python scripts and tools built while learning | Python |
-| More coming | Port scanner, directory brute forcer, vulnerability scanner | Python |
+| [Linux mastery](https://github.com/Convexkarma/Overthewire-Bandit.git) | Navigating the bash jungle| Bash |
 
 ---
 
