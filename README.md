@@ -28,7 +28,6 @@ I'm not just learning theory. I'm building, breaking, and documenting everything
 - 🌐 Deepening web hacking skills on **PortSwigger Web Academy** — XSS, SQLi, CSRF
 - 🐍 Building cybersecurity tools in **Python**
 - 🔐 Studying **C programming** to understand systems at the lowest level
-- 🎯 Goal: Hackathon ready + job ready by **August 2026**
 - 📍 Based in **Nairobi, Kenya**
 
 ---
