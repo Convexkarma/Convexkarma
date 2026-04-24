@@ -3,8 +3,6 @@
   <em>Cybersecurity Student | Penetration Tester in Progress | Python Developer | Nairobi, 🇰🇪</em>
 </p>
 
-> *"The quieter you become, the more you are able to hear."* > I'm an aspiring penetration tester obsessed with understanding how systems break—and how to fix them. I'm not just learning theory; I build tools, break systems, and document everything along the way.
-
 ###  Current Focus
 * **Pathways:** Conquering the Jr. Penetration Tester path (TryHackMe) & deep-diving into web hacking (PortSwigger)
 * **Building:** Automating exploits and crafting security tools using **Python**
