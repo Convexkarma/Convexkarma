@@ -25,6 +25,7 @@
 
 * **Web Hacking:** XSS, SQLi, CSRF, Authentication Bypasses
 * **Network Sec:** Nmap, Gobuster, Nikto, Linux Privilege Escalation
+* **Python scripting:** Requests , Urllib , Sys
 
 ### Projects & Writeups
 
