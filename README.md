@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Emmanuel kibet </h1>
 <p align="center">
-  <p>Cybersecurity Student | Penetration Tester in Progress | Python Developer </p>
+  <em>Cybersecurity Student | Penetration Tester in Progress | Python Developer </em>
 
 ###  Current Focus
 * **Pathways:** Conquering the Jr. Penetration Tester path (TryHackMe) & deep-diving into web hacking (PortSwigger)
