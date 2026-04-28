@@ -1,7 +1,6 @@
 <h1 align="center">Hey, I'm Emmanuel kibet </h1>
 <p align="center">
-  <em>Cybersecurity Student | Penetration Tester in Progress | Python Developer | Nairobi, 🇰🇪</em>
-</p>
+  <p>Cybersecurity Student | Penetration Tester in Progress | Python Developer </p>
 
 ###  Current Focus
 * **Pathways:** Conquering the Jr. Penetration Tester path (TryHackMe) & deep-diving into web hacking (PortSwigger)
