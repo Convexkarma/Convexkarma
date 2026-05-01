@@ -31,12 +31,6 @@ then spend three hours debugging a missing semicolon.
 > *"Either it's a 67 situation or a for loop situation.  
 > Sometimes it's both and I'm in bed."*
 
----
-
-<br clear="right"/>
-
----
-
 ## what I actually do at 2am
 
 ```python
@@ -51,7 +45,6 @@ while alive:
             stare_at_ceiling()
 ```
 
----
 
 ## the stack (not negotiable)
 
